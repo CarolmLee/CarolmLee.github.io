@@ -1,0 +1,106 @@
+body {
+  font-family: "helvetica", serif; 
+  color: white; 
+  font-weight:lighter;
+  background-color: #444444;
+  border: solid 5px #757473;
+  padding-top: 30px;
+  padding-right: 40px;
+  padding-bottom: 0px;
+  padding-left: 40px;
+  margin: 20px;
+}
+ul li{
+  margin: 5px;
+}
+
+li{
+  list-style-type:square;
+}
+
+a { 
+  font-family: "Helvetica"; 
+  color: white; 
+  font-weight: bold;
+}
+
+a:link, a:visited {
+  color: #25C899;
+  text-align: center; 
+  text-decoration: underline;
+}
+
+nav {
+  padding-bottom: 30px;
+}
+
+a active {
+  color: #25C899;
+}
+
+h1{
+  font-family: "Georgia", serif; 
+  color: white; 
+  font-weight: normal;
+  padding-bottom: 10px;
+
+}
+f {
+  font-family: helvetica;
+  color: darkgrey;
+}
+
+h2{
+  font-family: "Helvetica", sans-serif; 
+  color: white; 
+  font-weight: normal;
+
+}
+
+h3{
+  font-family: "Helvetica", sans-serif;
+  text-transform: uppercase;
+  color:darkgrey; 
+  font-size: 15px;
+  letter-spacing: 2px;
+  padding-top: 19px;
+}
+h4 {
+  font-family: helvetica;
+  font-weight: normal;
+}
+
+font {
+ font-family: georgia;
+}
+p.b {
+  line-height: 1.5;
+  font-weight: lighter;
+}
+p.c {
+  line-height: 5;
+  font-weight: lighter;
+}
+
+span {
+  color: darkgray;
+}
+
+
+img {
+  float:right;
+  margin: 10px;
+  width: 200px;
+  border: 1px solid #757473;
+  padding: 3px;
+}
+
+div {
+  border-bottom: solid #757473 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+footer {
+  margin: 25px;
+}
